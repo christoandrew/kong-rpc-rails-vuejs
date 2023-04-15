@@ -1,0 +1,9 @@
+[submodule "kong-vuejs-client"]
+	path = kong-vuejs-client
+	url = https://github.com/christoandrew/kong-vuejs-client
+[submodule "client"]
+	path = client
+	url = https://github.com/christoandrew/kong-vuejs-client
+[submodule "server"]
+	path = server
+	url = https://github.com/christoandrew/kong-rails-api
